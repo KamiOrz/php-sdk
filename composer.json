@@ -1,13 +1,13 @@
 {
-    "name": "leancloud/leancloud-sdk",
+    "name": "kamiorz/leancloud-sdk",
     "description": "LeanCloud PHP SDK",
     "type": "library",
     "keywords": ["leancloud"],
-    "homepage": "https://github.com/leancloud/php-sdk",
+    "homepage": "https://github.com/KamiOrz/php-sdk",
     "authors": [
         {
-            "name": "Juvenn Woo",
-            "email": "yun.wu@leancloud.rocks"
+            "name": "XiaoGai",
+            "email": "68152283@qq.com"
         }
     ],
     "require": {
